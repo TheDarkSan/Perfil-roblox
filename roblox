@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Roblox - Perfil de TheDarkSanBR</title>
+
+  <!-- Open Graph: preview no Discord -->
+  <meta property="og:type" content="profile" />
+  <meta property="og:title" content="Roblox - Perfil de TheDarkSanBR" />
+  <meta property="og:description" content="TheDarkSanBR é uma das milhões de pessoas criando e explorando as possibilidades infinitas da Roblox. Junte-se a TheDarkSanBR na Roblox e explorem juntos! | BloxyBet Verification | dog jumped frown jumped fun brown roblox happy around around fox fun jumped lazy" />
+  <meta property="og:image" content="https://www.roblox.com/headshot-thumbnail/image?userId=3867074822&width=420&height=420&format=png" />
+  <meta property="og:url" content="https://seusite.com/" />
+
+  <!-- Twitter card (opcional) -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Roblox - Perfil de TheDarkSanBR" />
+  <meta name="twitter:description" content="TheDarkSanBR é uma das milhões de pessoas criando e explorando as possibilidades infinitas da Roblox. Junte-se a TheDarkSanBR na Roblox e explorem juntos!" />
+  <meta name="twitter:image" content="https://www.roblox.com/headshot-thumbnail/image?userId=3867074822&width=420&height=420&format=png" />
+
+  <!-- Redirecionamento automático para o servidor privado -->
+  <meta http-equiv="refresh" content="0; URL='https://www.roblox.com/share?code=4cd0fa455d1b1640ad54159b833087df&type=Server'">
+
+  <style>
+    :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+    body{margin:0;background:#f3f6fa;color:#111;display:flex;align-items:center;justify-content:center;height:100vh}
+    .card{width:min(760px,95%);background:#fff;border-radius:12px;box-shadow:0 6px 24px rgba(16,24,40,0.08);overflow:hidden}
+    .banner{height:160px;background-image:linear-gradient(90deg,#1e96f0,#7dd3fc);display:flex;align-items:flex-end;padding:16px}
+    .avatar{width:96px;height:96px;border-radius:12px;border:4px solid #fff;background:#ddd;overflow:hidden;box-shadow:0 6px 18px rgba(16,24,40,0.08)}
+    .avatar img{width:100%;height:100%;object-fit:cover;display:block}
+    .content{padding:20px 24px}
+    h1{margin:0 0 8px;font-size:20px}
+    .sub{color:#555;margin:0 0 12px;font-size:14px}
+    .desc{margin:12px 0 18px;line-height:1.45;color:#333}
+    .tags{display:flex;flex-wrap:wrap;gap:8px}
+    .tag{background:#eef2ff;color:#1e3a8a;padding:6px 10px;border-radius:999px;font-size:12px}
+    .actions{display:flex;gap:12px;margin-top:18px}
+    .btn{padding:10px 14px;border-radius:8px;border:0;cursor:pointer;font-weight:600}
+    .btn-primary{background:#2d8cf0;color:#fff}
+    footer{padding:12px 16px;text-align:right;color:#637381;font-size:12px;background:#fbfdff}
+    @media (max-width:520px){.banner{height:120px}.avatar{width:80px;height:80px}}
+  </style>
+</head>
+<body>
+  <article class="card" role="article" aria-label="Perfil de TheDarkSanBR">
+    <div class="banner">
+      <div class="avatar" aria-hidden="true">
+        <!-- Avatar do TheDarkSanBR -->
+        <img src="https://www.roblox.com/headshot-thumbnail/image?userId=3867074822&width=420&height=420&format=png" alt="Avatar de TheDarkSanBR">
+      </div>
+    </div>
+
+    <div class="content">
+      <h1>Roblox<br><small style="font-size:13px;color:#0f172a;opacity:.75">Perfil de <strong>TheDarkSanBR</strong></small></h1>
+      <p class="sub">TheDarkSanBR é uma das milhões de pessoas criando e explorando as possibilidades infinitas da Roblox.</p>
+
+      <p class="desc">
+        Junte-se a TheDarkSanBR na Roblox e explorem juntos!<br>
+        <em>BloxyBet Verification | dog jumped frown jumped fun brown roblox happy around around fox fun jumped lazy</em>
+      </p>
+
+      <div class="tags" aria-hidden="true">
+        <span class="tag">BloxyBet</span>
+        <span class="tag">Verification</span>
+        <span class="tag">dog</span>
+        <span class="tag">jumped</span>
+        <span class="tag">fun</span>
+        <span class="tag">roblox</span>
+        <span class="tag">fox</span>
+        <span class="tag">lazy</span>
+      </div>
+
+      <div class="actions">
+        <!-- Botão para visitar o perfil real (opcional) -->
+        <a class="btn btn-primary" href="https://www.roblox.com/pt/users/3867074822/profile" target="_blank" rel="noopener noreferrer">Visitar Perfil</a>
+      </div>
+    </div>
+
+    <footer>Roblox • Perfil público — TheDarkSanBR</footer>
+  </article>
+</body>
+</html>
+
